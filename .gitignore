@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
+dist
+dist/*
+dist/**/*
+.idea
+.idea/*
+=======
+>>>>>>> 4eea37c0dc4b191daa9706951b76824f75a7ab5f
