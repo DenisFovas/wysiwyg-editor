@@ -35,7 +35,6 @@
     "tsify": "^3.0.4",
     "typescript": "^2.7.2",
     "typings": "^2.1.1",
-    "uglify": "^0.1.5",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.10.0"
